@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="DBFE3EBE-A17B-4D21-B3BA-447C576399F1" version="0">
+<presentation availableOffline="1" guid="B17E16A5-93E8-4DC3-AF6C-E06B9545D6C7" version="0">
 	<info>
 		<title>CLASS VII NAVAMI TALENT TEST.2022-2023</title>
 		<description/>
 	</info>
-	<files index="id21" thumbnail="id17" totalSize="2720732">
+	<files index="id21" thumbnail="id17" totalSize="2718910">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
